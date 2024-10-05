@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\hemmm\osnabruck university\2-winter2023-2024\aiandweb\p3\distributed_messageboard\env
+set VIRTUAL_ENV=C:\Users\Asus\Desktop\pro\aiandweb-chatbot\env
 
 if not defined PROMPT set PROMPT=$P$G
 
